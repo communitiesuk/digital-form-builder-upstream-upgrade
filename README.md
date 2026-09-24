@@ -1,3 +1,6 @@
+**Now archived**
+The current version of the digital form builder used in access grant funding is here: https://github.com/communitiesuk/digital-form-builder-adapter
+
 # XGov Digital Form Builder
 
 [![Gitter](https://badges.gitter.im/XGovFormBuilder/Public.svg)](https://gitter.im/XGovFormBuilder/Public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
